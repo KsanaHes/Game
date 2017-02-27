@@ -63,3 +63,8 @@ public class Fight {
         if (ksana[4] <= 0) {
             System.out.println("Ксана побеждена! Её ХП: " + ksana[4]);
         }
+        
+        //int[] skils;
+
+    }
+}
